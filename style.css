@@ -280,7 +280,7 @@ section{
   width: 0;
   height: 0;
   border-top: 349px solid var(--main-color);
-  border-right: 312px solid var(--main-color);
+  border-right: 315px solid var(--main-color);
   border-bottom: 312px solid var(--main-color);
   border-left: 349px solid transparent;
   animation: none;
