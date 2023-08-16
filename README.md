@@ -1,6 +1,6 @@
 # My Portfolio
 
-![Portfolio Preview](![image](my-website-backend/public/IMG/Camera Roll/Capture1.PNG)
+![Portfolio Preview](![image]((https://github.com/LulaXaba/LulaPortfolio-11/commit/cd4efd511d9be6bd1976989d01eee1e08e3ee10a?short_path=0b4f095#diff-0b4f0953f1fb68a0d36bcb39dd402bc11b67f81116b5740046cd57a0f4f05c0b))
 (![image](https://github.com/LulaXaba/LulaPortfolio-11/assets/95076684/f6b7e94b-69a3-4fba-b678-10f636967276)
 (![image](https://github.com/LulaXaba/LulaPortfolio-11/assets/95076684/009e2789-fd18-4e9b-b4b5-27b529f69395)
 (![image](https://github.com/LulaXaba/LulaPortfolio-11/assets/95076684/e959efb6-3fad-415f-8092-8f60a463c457)
