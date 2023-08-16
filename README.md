@@ -1,6 +1,11 @@
 # My Portfolio
 
-![Portfolio Preview](portfolio-preview.png)
+![Portfolio Preview](![image](https://github.com/LulaXaba/LulaPortfolio-11/assets/95076684/3d5849a2-426f-4632-a116-1add02539d1b)
+(![image](https://github.com/LulaXaba/LulaPortfolio-11/assets/95076684/f6b7e94b-69a3-4fba-b678-10f636967276)
+(![image](https://github.com/LulaXaba/LulaPortfolio-11/assets/95076684/009e2789-fd18-4e9b-b4b5-27b529f69395)
+(![image](https://github.com/LulaXaba/LulaPortfolio-11/assets/95076684/e959efb6-3fad-415f-8092-8f60a463c457)
+(![image](https://github.com/LulaXaba/LulaPortfolio-11/assets/95076684/46899098-9c5f-4ab2-ad83-0a791b2aea8c)
+)
 
 ## Introduction
 
