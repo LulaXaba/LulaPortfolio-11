@@ -19,6 +19,7 @@ Visit the live website: [My Portfolio](https://www.example.com)
 
 - HTML5 and CSS3
 - JavaScript
+- Node.JS
 - [Swiper.js](https://swiperjs.com) for the testimonial carousel
 - [Typed.js](https://github.com/mattboldt/typed.js/) for the typing animation
 - [ScrollReveal.js](https://scrollrevealjs.org/) for scroll animations
